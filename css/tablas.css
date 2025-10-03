@@ -1,0 +1,15 @@
+/*DOCUMENTO CSS*/
+* { margin: 0px;
+    padding: 0px; }
+
+body { background-color: #dbfbdb; }
+
+h1 { background-color: green;
+     padding: 16px 0px ;
+     text-align: center;
+     color: whitesmoke; }
+
+.tablas { width: 50%;
+          margin: 24px auto 24px auto;
+          background-color: whitesmoke;
+          text-align: center; }
